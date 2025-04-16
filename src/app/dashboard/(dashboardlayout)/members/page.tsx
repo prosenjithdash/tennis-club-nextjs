@@ -1,9 +1,10 @@
 import React from 'react';
 
 const MembersPage = () => {
+    
     return (
         <div>
-            <h1>Members page</h1>
+            <h1>Members Page</h1>
         </div>
     );
 };

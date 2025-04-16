@@ -1,9 +1,10 @@
+import LoaderPage from '@/components/shared/loader';
 import React from 'react';
 
 const LoadingPage = () => {
     return (
         <div>
-            spinner
+            <LoaderPage/>
         </div>
     );
 };
